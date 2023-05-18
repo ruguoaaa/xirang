@@ -6,12 +6,12 @@ heroImage: /logo.svg
 heroText: 中国古文化
 tagline: 生生不息，汲取传统文化的力量，传承中华文化的魂魄。
 actions:
-    - text: Get Started
-      link: /guide/getting-started
+    - text: 开始
+      link: /诗藏/
       type: primary
 
-    - text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+    - text: 在GitHub上看源码
+      link: https://github.com/ruguoaaa/xirang
 
 features:
   - icon: repo

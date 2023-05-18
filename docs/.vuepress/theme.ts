@@ -3,11 +3,11 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://ruguoaaa.github.io/xirang",
 
   author: {
     name: "Paladin",
-    url: "https://mrhope.site",
+    url: "https://ruguoaaa.github.io/xirang",
   },
 
   iconAssets: "iconfont",
@@ -18,7 +18,7 @@ export default hopeTheme({
 
   fullscreen: true,
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "docs",
 
   locales: {
     /*
