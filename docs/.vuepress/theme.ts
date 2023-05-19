@@ -69,8 +69,9 @@ export default hopeTheme({
 
   plugins: {
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
+      serverURL: "https://xirangw.vercel.app/",
+      pageview: false,
     },
 
     // all features are enabled for demo, only preserve features you need here

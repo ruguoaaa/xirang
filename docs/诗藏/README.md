@@ -1,9 +1,9 @@
 ---
 title: 诗藏
 index: false
-icon: editor
+icon: folder
 category:
   - 诗藏
 ---
 
-<AutoCatalog />
+<AutoCatalog  />
