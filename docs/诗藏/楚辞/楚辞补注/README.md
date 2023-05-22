@@ -1,8 +1,8 @@
 ---
-title: 楚辞
+title: 楚辞补注
 index: false
 icon: folder
-order: 10
+order: 20
 category:
   - 诗藏
   - 楚辞
