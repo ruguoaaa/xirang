@@ -116,6 +116,7 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+      footnote: true,
     },
 
     // uncomment these if you want a pwa
