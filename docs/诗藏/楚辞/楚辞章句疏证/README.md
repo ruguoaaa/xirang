@@ -12,3 +12,5 @@ tag:
   - 诗歌
   - 现代校勘
 ---
+
+<AutoCatalog  />

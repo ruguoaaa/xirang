@@ -12,3 +12,5 @@ tag:
   - 诗歌
   - 朱熹
 ---
+
+<AutoCatalog  />

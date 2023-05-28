@@ -10,3 +10,5 @@ tag:
   - 浪漫主义
   - 诗歌
 ---
+
+<AutoCatalog  />

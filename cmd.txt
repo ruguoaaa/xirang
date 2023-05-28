@@ -4,3 +4,22 @@ ren *.txt *.md
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.XRGITHUB_TOKEN }}
+
+copy 卷1.md 卷2.md
+copy 卷1.md 卷3.md
+copy 卷1.md 卷4.md
+copy 卷1.md 卷5.md
+copy 卷1.md 卷6.md
+copy 卷1.md 卷7.md
+copy 卷1.md 卷8.md
+copy 卷1.md 卷9.md
+copy 卷1.md 卷10.md
+copy 卷1.md 卷11.md
+copy 卷1.md 卷12.md
+copy 卷1.md 卷13.md
+copy 卷1.md 卷14.md
+copy 卷1.md 卷15.md
+copy 卷1.md 卷16.md
+copy 卷1.md 卷17.md
+copy 卷1.md 卷18.md
+copy 卷1.md 卷19.md
