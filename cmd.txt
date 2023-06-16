@@ -1,5 +1,6 @@
 ren *.txt *.md
 
+(^### [\s\S]*)
 
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
