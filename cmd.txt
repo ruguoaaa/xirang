@@ -2,7 +2,7 @@ ren *.txt *.md
 
 (^### [\s\S]*)
 
-(^[一二三四五六七八九十○]*、[\s\S]*)
+(^[一二三四五六七八九十○〇]*、[\s\S]*)
 
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
