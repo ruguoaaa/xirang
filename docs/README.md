@@ -80,7 +80,7 @@ footer: 使用<a href="https://theme-hope.vuejs.press/" target="_blank">VuePress
 
 
 ### 整理完成情况：
-  * [x] 诗藏  60%
+  * [x] 诗藏  100%
   * [ ] 医藏
   * [ ] 易藏
   * [ ] 史藏
