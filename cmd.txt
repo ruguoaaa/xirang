@@ -4,6 +4,17 @@ ren *.txt *.md
 
 (^[一二三四五六七八九十○〇]*、[\s\S]*)
 
+(卷[\S]+)
+[$1](./饮食门.md#$1)
+
+(^　　　)([\S]+)
+***$2***
+
+(^　　)([\S]+)
+### $2
+
+^ 【
+
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.XRGITHUB_TOKEN }}
