@@ -15,6 +15,17 @@ ren *.txt *.md
 
 ^ 【
 
+
+(^总论  
+
+)([\S]+)
+
+(虫兽三品　下品  
+
+)([\S]+)
+
+***$2***
+
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.XRGITHUB_TOKEN }}
