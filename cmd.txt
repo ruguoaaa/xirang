@@ -26,6 +26,23 @@ ren *.txt *.md
 
 ***$2***
 
+---
+title: 扁鹊神应针灸玉龙经 钦定四库全书
+index: true
+icon: editor
+order: 132
+category:
+  - 医藏
+  - 扁鹊神应针灸玉龙经
+tag:
+  - 钦定四库全书
+  - 子部五
+  - 医家类
+  - 王国瑞
+  - 元
+---
+
+
  env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.XRGITHUB_TOKEN }}
