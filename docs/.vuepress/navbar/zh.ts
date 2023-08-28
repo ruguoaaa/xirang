@@ -2,16 +2,16 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/",
-  { text: "诗藏", icon: "news", link: "/诗藏/" },
-  { text: "医藏", icon: "note", link: "/医藏/" },
-  { text: "易藏", icon: "page", link: "/易藏/" },
-  { text: "史藏", icon: "overflow", link: "/史藏/" },
-  { text: "子藏", icon: "read", link: "/子藏/" },
-  { text: "集藏", icon: "blog", link: "/集藏/" },
-  { text: "艺藏", icon: "workingDirectory", link: "/艺藏/" },
-  { text: "佛藏", icon: "folder", link: "/佛藏/" },
-  { text: "儒藏", icon: "exercise", link: "/儒藏/" },
-  { text: "道藏", icon: "list", link: "/道藏/" },
+  { text: "诗藏", icon: "news", link: "https://ruguoaaa.github.io/xirang/诗藏/" },
+  { text: "医藏", icon: "note", link: "https://ruguoaaa.github.io/xirang1/医藏/" },
+  { text: "易藏", icon: "page", link: "https://ruguoaaa.github.io/xirang2/易藏/" },
+  { text: "史藏", icon: "overflow", link: "https://ruguoaaa.github.io/xirang3/史藏/" },
+  { text: "子藏", icon: "read", link: "https://ruguoaaa.github.io/xirang4/子藏/" },
+  { text: "集藏", icon: "blog", link: "https://ruguoaaa.github.io/xirang5/集藏/" },
+  { text: "艺藏", icon: "workingDirectory", link: "https://ruguoaaa.github.io/xirang6/艺藏/" },
+  { text: "佛藏", icon: "folder", link: "https://ruguoaaa.github.io/xirang7/佛藏/" },
+  { text: "儒藏", icon: "exercise", link: "https://ruguoaaa.github.io/xirang8/儒藏/" },
+  { text: "道藏", icon: "list", link: "https://ruguoaaa.github.io/xirang9/道藏/" },
   /*
   {
     text: "指南",
