@@ -22,47 +22,47 @@ features:
   - icon: repo
     title: 医藏
     details: 中医书籍。
-    link: /医藏/
+    link: https://ruguoaaa.github.io/xirang1/医藏/
   
   - icon: repo
     title: 易藏
     details: 术数，易经。
-    link: /易藏/
+    link: https://ruguoaaa.github.io/xirang2/易藏/
 
   - icon: repo
     title: 史藏
     details: 传记，别史，史评，地理，志存记录，政书，正史，目录，纪事本末，经世文编，编年，职官，诏令奏议，载记。
-    link: /史藏/
+    link: https://ruguoaaa.github.io/xirang3/史藏/
 
   - icon: repo
     title: 子藏
     details: 兵家，农家，法家，笔记，算法，类书，诸子。
-    link: /子藏/
+    link: https://ruguoaaa.github.io/xirang4/子藏/
 
   - icon: repo
     title: 集藏
     details: 四库别集，宝卷，小说，文总集，文评，演义，笑话，话本，谜语。
-    link: /集藏/
+    link: https://ruguoaaa.github.io/xirang5/集藏/
 
   - icon: repo
     title: 艺藏
     details: 书法，器物，工艺，棋技，武术，竞技，篆刻，绘画，综合，草木鸟兽虫鱼，音乐，饮馔。
-    link: /艺藏/
+    link: https://ruguoaaa.github.io/xirang6/艺藏/
 
   - icon: repo
     title: 佛藏
     details: 乾隆藏，嘉兴藏，大藏经，续藏经，藏外。
-    link: /佛藏/
+    link: https://ruguoaaa.github.io/xirang7/佛藏/
 
   - icon: repo
     title: 儒藏
     details: 乐经，五经总义，修身治家，启蒙蒙学，四书，孝经，小学，尚书，春秋，礼经，诗经，语录。
-    link: /儒藏/
+    link: https://ruguoaaa.github.io/xirang8/儒藏/
 
   - icon: repo
     title: 道藏
     details: 正统道藏洞神部，正统道藏洞玄部，正统道藏洞真部，正统道藏太平部，正统道藏太清部，正统道藏太玄部，正统道藏续道藏，正统道藏正一部，藏外。
-    link: /道藏/
+    link: https://ruguoaaa.github.io/xirang9/道藏/
 
 
 copyright: false
